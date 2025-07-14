@@ -5,7 +5,7 @@
 ## 🗒️Portfólio 
 * [Portfólio](https://jefferson-douglas.netlify.app/)
 
-## 🛠️ Construído com
+## 🛠️ Passo a Passo
 
 Para que o codigo funcione corrtamente faça os seguintes passos:
 
